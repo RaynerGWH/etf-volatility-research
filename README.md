@@ -1,0 +1,1 @@
+Investigating whether trailing 3-, 6-, and 12-month volatility estimates forecast next month’s realised volatility better than an expanding historical estimate across SPY, IEF, GLD, and DBC.
